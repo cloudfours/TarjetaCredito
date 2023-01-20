@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tarjetacredito-7d788": {
+      "hosting": {
+        "TarjetaCredito": [
+          "tarjetacredito-7d788"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tarjetacredito-7d788"
+  }
+}
